@@ -3,6 +3,14 @@
 <br>
 <br>
 
+Currently, **only the Korean version is supported**. That is, the content of the report must be in Korean. To receive the report in Korean, you can select Korean from the 'Language' option at the bottom of Zoom.
+
+For the CSV report file, go to Zoom web > Reports > Usage Reports > Webinar and check the Q&A Report. Then, select the date of the webinar you wish to grade. 
+Finally, you can download the report by clicking on Generate CSV Report.
+
+<br>
+<br>
+
 ### Please note!
 
 The qna report of a Zoom webinar is saved as a CSV file, but **it may not open correctly due to inconsistent data formats within**. 
