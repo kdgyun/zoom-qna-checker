@@ -13,16 +13,16 @@ Finally, you can download the report by clicking on Generate CSV Report.
 
 ### Please note!
 
-The qna report of a Zoom webinar is saved as a CSV file, but **it may not open correctly due to inconsistent data formats within**. 
+The poll report of a Zoom webinar is saved as a CSV file, but **it may not open correctly due to inconsistent data formats within**. 
 
-For this issue, **just opening the "qna.csv" file in MS Excel and then saving it** without any additional actions will allow Excel to automatically convert and save the data in the appropriate format, thus resolving the problem.
+For this issue, **just opening the "poll.csv" file in MS Excel and then saving it** without any additional actions will allow Excel to automatically convert and save the data in the appropriate format, thus resolving the problem.
 
 It is recommended to preprocess the file using the above method before using the program.
 
 <br>
 
 ## How to Use
-To use the Zoom qna Checker, follow these steps:
+To use the Zoom qna(poll) Checker, follow these steps:
 
 ### 1. Clone the Repository
 
@@ -71,7 +71,7 @@ python main.py -p path-to-qna.csv -a 'answer1' 'answer2' 'answer3'
 
 <br>
 
-The script generates an **Excel (.xlsx) file** with the qna results, including a list of attendees marked present and a section for those needing manual verification.
+The script generates an **Excel (.xlsx) file** with the poll results, including a list of attendees marked present and a section for those needing manual verification.
 
 Contributing
 We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
